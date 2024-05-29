@@ -2,7 +2,7 @@
 
 This is a simple YouTube video downloader application implemented in Python using the Pytube library and Tkinter for the user interface. It allows users to download videos from YouTube by providing the video URL.
 
-<img src="Youtube.png" alt="Youtube" style="width: 300px; height: 300px">
+<img src="Youtube.png" alt="Youtube" style="width: 400px; height: 300px">
 
 ## Table of Contents
 - [Description](#description)
